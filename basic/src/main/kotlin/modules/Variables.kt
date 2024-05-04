@@ -19,7 +19,7 @@ class Variables {
         var numero = 12
         println("A variável numero contém o numero: $numero")
 
-        // Double -> Serve para guardar números com vírgule
+        // Double -> Serve para guardar números com vírgula
         var numeroComVirgule = 12.2
         println("A variável numeroComVirgule contém o numero: $numeroComVirgule")
 
