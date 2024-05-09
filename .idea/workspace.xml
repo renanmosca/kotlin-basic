@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a033b180-345f-48e6-b3ed-1c50a37eec74" name="Changes" comment="Create new models">
+    <list default="true" id="a033b180-345f-48e6-b3ed-1c50a37eec74" name="Changes" comment="New lessons in TerminalLessons.kt.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714778251979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New lessons in TerminalLessons.kt.">
+      <option name="closed" value="true" />
+      <created>1715296343872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715296343872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new modules" />
     <MESSAGE value="Create new models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create new models" />
+    <MESSAGE value="New lessons in TerminalLessons.kt." />
+    <option name="LAST_COMMIT_MESSAGE" value="New lessons in TerminalLessons.kt." />
   </component>
 </project>
